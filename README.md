@@ -20,7 +20,7 @@ Now, run the following Shell code:
 
 ```bash
 cd $HOME/hacking/common-lisp/
-git clone https://github.com/pw4ever/teaching
+git clone https://github.com/pw4ever/pw-teaching-algo-n-struct
 ```
 
 Now you are all set.
