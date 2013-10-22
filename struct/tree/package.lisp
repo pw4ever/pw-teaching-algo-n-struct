@@ -18,5 +18,7 @@
    #:remove-all-trees
 
    #:pprint-list-representation
+
+   #:*verbose*
    ))
 
